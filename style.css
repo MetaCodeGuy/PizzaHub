@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* variables */
+:root{
+    --background:rgb(36, 35, 51);
+}
